@@ -1,13 +1,2 @@
----
-title: "HellWorld"
-author: "Olu"
-date: "4/6/2020"
-output:
-  word_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
